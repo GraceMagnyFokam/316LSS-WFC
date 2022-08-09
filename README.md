@@ -1,4 +1,4 @@
-# WFC Implementation for Procedural Generation of EBSDs
+# WFC Implementation for the Procedural Generation of EBSDs
 
 This is my research implementation of WaveFunctionCollapse in Python. 
 Originally created by Issac Karth (iKarth).
