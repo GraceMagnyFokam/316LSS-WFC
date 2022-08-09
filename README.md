@@ -8,9 +8,9 @@ It has two goals:
 * Make it easier to understand how the algorithm operates
 * Provide a testbed for experimenting with alternate heuristics and features
 
-For more general-purpose WFC information, the original reference repository remains the best resource: https://github.com/mxgmn/WaveFunctionCollapse
+For more general-purpose WFC information, the [original reference repository](https://github.com/mxgmn/WaveFunctionCollapse) by Maxim Gumin (mxgmm) remains the best resource. 
 
-The original repository from iKarth might also be a useful resource: https://github.com/ikarth/wfc_2019f
+The [repository from iKarth](https://github.com/ikarth/wfc_2019f) might also be a useful resource.
 
 ## Running WFC
 
@@ -31,7 +31,7 @@ The arguments it accepts are:
 
 The specific input that I used is called "Deformed Iron EBSD" and can be found at `images/Inputs/Deformed Iron EBSD.png`
 
-It's a cropped version of the IPF-X image in the original dataset by Thomas B. Britton and Jim Hickey: https://doi.org/10.5281/zenodo.1214828
+It's a cropped version of the IPF-X image in the [original dataset](https://doi.org/10.5281/zenodo.1214828) by Thomas B. Britton and Jim Hickey
 
 ## Test
 
@@ -55,7 +55,6 @@ xdg-open build/sphinx/index.html
 ## Acknowledgments
 
 ```
-This research was funded by the Army Educational Outreach Program (AEOP) and 
-the Hopkins Extreme Materials Institute (HEMI) at Johns Hopkins University in 2022.
+This research was funded by the Army Educational Outreach Program (AEOP) and the Hopkins Extreme Materials Institute (HEMI) at Johns Hopkins University.
 
 
