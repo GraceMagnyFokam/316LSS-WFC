@@ -25,6 +25,7 @@ The arguments it accepts are:
 - `logging=True`: should we write to a log file? requires filename.
 
 The specific input that I used is called "Deformed Iron EBSD" and can be found at `images/Inputs/Deformed Iron EBSD.png.`
+![Deformed Iron EBSD](https://github.com/cemel-jhu/WaveFunctionCollapse/blob/ae7c9ab829501e33ede2bb3c3feefc2441988d03/images/Inputs/Deformed%20Iron%20EBSD.png)
 
 It's a cropped version of the IPF-X image in the [original dataset](https://doi.org/10.5281/zenodo.1214828) by Thomas B. Britton and Jim Hickey.
 
