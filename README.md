@@ -4,6 +4,7 @@ This is an implementation of WaveFunctionCollapse in Python.
 Implementation created by Issac Karth (iKarth).
 
 ![wfc.gif](https://github.com/cemel-jhu/WaveFunctionCollapse/blob/0a29fc8f75552a81762149aa9dfadb92c6dad67f/images/wfc.gif)
+
 *Gif of WFC in action*
 
 For more general-purpose WFC information, the [original reference repository](https://github.com/mxgmn/WaveFunctionCollapse) by Maxim Gumin (mxgmm) remains the best resource. 
