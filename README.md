@@ -1,7 +1,10 @@
 # WFC Implementation for the Procedural Generation of EBSDs
 
-This is my research implementation of WaveFunctionCollapse in Python. 
-Originally created by Issac Karth (iKarth).
+This is an implementation of WaveFunctionCollapse in Python. 
+Implementation created by Issac Karth (iKarth).
+
+![wfc.gif](https://github.com/cemel-jhu/WaveFunctionCollapse/blob/0a29fc8f75552a81762149aa9dfadb92c6dad67f/images/wfc.gif)
+*Gif of WFC in action*
 
 For more general-purpose WFC information, the [original reference repository](https://github.com/mxgmn/WaveFunctionCollapse) by Maxim Gumin (mxgmm) remains the best resource. 
 
@@ -25,6 +28,7 @@ The arguments it accepts are:
 - `logging=True`: should we write to a log file? requires filename.
 
 The specific input that I used is called "Deformed Iron EBSD" and can be found at `images/Inputs/Deformed Iron EBSD.png.`
+
 ![Deformed Iron EBSD](https://github.com/cemel-jhu/WaveFunctionCollapse/blob/ae7c9ab829501e33ede2bb3c3feefc2441988d03/images/Inputs/Deformed%20Iron%20EBSD.png)
 
 It's a cropped version of the IPF-X image in the [original dataset](https://doi.org/10.5281/zenodo.1214828) by Thomas B. Britton and Jim Hickey.
