@@ -30,8 +30,7 @@ The arguments it accepts are:
 - `logging=True`: should we write to a log file? requires filename.
 
 The specific input that I used is called "Deformed Iron EBSD" and can be found at `images/Inputs/Deformed Iron EBSD.png`
-It's a cropped version of the IPF-X image in the original dataset: `https://doi.org/10.5281/zenodo.1214828![image](https://user-images.githubusercontent.com/88839490/183575053-0f6e9d83-6594-4069-b62a-ff265bbe1895.png)
-`
+It's a cropped version of the IPF-X image in the original dataset: https://doi.org/10.5281/zenodo.1214828![image](https://user-images.githubusercontent.com/88839490/183575053-0f6e9d83-6594-4069-b62a-ff265bbe1895.png)
 
 ## Test
 
