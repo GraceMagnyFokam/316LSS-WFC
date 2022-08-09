@@ -2,9 +2,9 @@
 
 This is an implementation of WaveFunctionCollapse in Python that was created by Issac Karth (iKarth).
 
-![wfc.gif](https://github.com/cemel-jhu/WaveFunctionCollapse/blob/0a29fc8f75552a81762149aa9dfadb92c6dad67f/images/wfc.gif)
-
-*WFC in action*
+<p align="center">
+<img src="images/wfc.gif"/>
+</p>
 
 
 For more general-purpose WFC information, the [original reference repository](https://github.com/mxgmn/WaveFunctionCollapse) by Maxim Gumin (mxgmm) remains the best resource. 
@@ -30,7 +30,10 @@ The arguments it accepts are:
 
 The specific input that I used is called "Deformed Iron EBSD" and can be found at `images/Inputs/Deformed Iron EBSD.png.`
 
-![Deformed Iron EBSD](https://github.com/cemel-jhu/WaveFunctionCollapse/blob/ae7c9ab829501e33ede2bb3c3feefc2441988d03/images/Inputs/Deformed%20Iron%20EBSD.png)
+
+<p align="center">
+<img src="images/Inputs/Deformed%20Iron%20EBSD.png"/>
+</p>
 
 It's a cropped version of the IPF-X image in the [original dataset](https://doi.org/10.5281/zenodo.1214828) by Thomas B. Britton and Jim Hickey.
 
