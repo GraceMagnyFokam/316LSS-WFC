@@ -3,11 +3,6 @@
 This is my research implementation of WaveFunctionCollapse in Python. 
 Originally created by Issac Karth (iKarth).
 
-It has two goals:
-
-* Make it easier to understand how the algorithm operates
-* Provide a testbed for experimenting with alternate heuristics and features
-
 For more general-purpose WFC information, the [original reference repository](https://github.com/mxgmn/WaveFunctionCollapse) by Maxim Gumin (mxgmm) remains the best resource. 
 
 The [repository from iKarth](https://github.com/ikarth/wfc_2019f) might also be a useful resource.
@@ -29,9 +24,9 @@ The arguments it accepts are:
 - `log_filename="out_log"`: what should the log file be named?
 - `logging=True`: should we write to a log file? requires filename.
 
-The specific input that I used is called "Deformed Iron EBSD" and can be found at `images/Inputs/Deformed Iron EBSD.png`
+The specific input that I used is called "Deformed Iron EBSD" and can be found at `images/Inputs/Deformed Iron EBSD.png.`
 
-It's a cropped version of the IPF-X image in the [original dataset](https://doi.org/10.5281/zenodo.1214828) by Thomas B. Britton and Jim Hickey
+It's a cropped version of the IPF-X image in the [original dataset](https://doi.org/10.5281/zenodo.1214828) by Thomas B. Britton and Jim Hickey.
 
 ## Test
 
