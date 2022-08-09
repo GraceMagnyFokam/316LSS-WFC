@@ -9,6 +9,7 @@ It has two goals:
 * Provide a testbed for experimenting with alternate heuristics and features
 
 For more general-purpose WFC information, the original reference repository remains the best resource: https://github.com/mxgmn/WaveFunctionCollapse
+
 The original repository from iKarth might also be a useful resource: https://github.com/ikarth/wfc_2019f
 
 ## Running WFC
@@ -30,6 +31,7 @@ The arguments it accepts are:
 - `logging=True`: should we write to a log file? requires filename.
 
 The specific input that I used is called "Deformed Iron EBSD" and can be found at `images/Inputs/Deformed Iron EBSD.png`
+
 It's a cropped version of the IPF-X image in the original dataset by Thomas B. Britton and Jim Hickey: https://doi.org/10.5281/zenodo.1214828
 
 ## Test
