@@ -20,7 +20,6 @@ The arguments it accepts are:
 
 - `tile_size=1`: size of the tiles it uses (1 is fine for pixel images, larger is for things like a Super Metroid map)
 - `pattern_width=2`: size of the patterns; usually 2 or 3 because bigger gets slower and
-- `rotations=8`: how many reflections and/or rotations to use with the patterns
 - `output_size=[32,32]`: how big the output image is
 - `attempt_limit=100`: stop after this many tries
 - `output_periodic=True`: the output wraps at the edges
