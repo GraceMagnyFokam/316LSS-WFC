@@ -1,6 +1,7 @@
-# WFC Implementation for the Procedural Generation of EBSDs
+# Wave Function Collapse
 
-This is an implementation of WaveFunctionCollapse in Python that was created by Issac Karth (iKarth).
+This is an implementation of the WaveFunctionCollapse in Python that was created by Issac Karth (iKarth).
+We attempted to use this implementation for the procedural generation of EBSD maps.
 
 <p align="center">
 <img src="images/wfc.gif"/>
