@@ -54,7 +54,7 @@ xdg-open build/sphinx/index.html
 
 ## Acknowledgments
 
-```
+
 This research was funded by the Army Educational Outreach Program (AEOP) and the Hopkins Extreme Materials Institute (HEMI) at Johns Hopkins University.
 
 
